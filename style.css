@@ -1,0 +1,37 @@
+.heading{
+    font-size: 23;
+    width:100%;
+    margin: 0px;
+    background-color:seagreen;
+    
+}
+.realtime{
+    background:white ;
+    color:darkslategray;
+    float:none;
+    padding:10px;
+    border-radius: 20px;
+}
+.objectnames{
+    font-size: 18px;
+    background-color:rebeccapurple;
+    color:palegoldenrod;
+}
+.objectclass{
+    font-size: 20px;
+    background-color:yellow;
+    color: black;
+}
+.footerdiv{
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    line-height:3;
+    background-color:magenta;
+    color:ghostwhite;
+
+}
+canvas{
+    margin-top:100px;
+}
